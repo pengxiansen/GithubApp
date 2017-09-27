@@ -1,5 +1,6 @@
 import React from "react";
 import {
     Text,
-    View
+    View，
+    InputText
 } from 'react-native';
